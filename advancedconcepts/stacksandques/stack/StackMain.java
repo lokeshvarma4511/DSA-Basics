@@ -1,4 +1,4 @@
-package company.dsa.advancedconcepts.stacksandques;
+package company.dsa.advancedconcepts.stacksandques.stack;
 
 public class StackMain  {
     public static void main(String[] args) throws StackException {

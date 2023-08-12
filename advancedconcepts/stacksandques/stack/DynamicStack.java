@@ -1,4 +1,4 @@
-package company.dsa.advancedconcepts.stacksandques;
+package company.dsa.advancedconcepts.stacksandques.stack;
 
 public class DynamicStack extends CustomStack{
     public DynamicStack(int size)

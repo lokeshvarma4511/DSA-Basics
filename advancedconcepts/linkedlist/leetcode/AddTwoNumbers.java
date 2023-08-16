@@ -64,7 +64,6 @@ public class AddTwoNumbers {
         l1.insert(4);
         l1.insert(3);
         ListNode l2 = new ListNode();
-
         l2.insert(5);
         l2.insert(6);
         l2.insert(4);

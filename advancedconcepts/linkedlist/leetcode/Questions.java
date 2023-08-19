@@ -1,6 +1,6 @@
 package company.dsa.advancedconcepts.linkedlist.leetcode;
 
-import company.dsa.advancedconcepts.linkedlist.ListNode;
+import company.dsa.advancedconcepts.linkedlist.core.ListNode;
 
 public class Questions {
 

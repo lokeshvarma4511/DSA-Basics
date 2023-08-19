@@ -1,4 +1,4 @@
-package company.dsa.advancedconcepts.linkedlist;
+package company.dsa.advancedconcepts.linkedlist.core;
 
 public class Runner {
     public static void main(String[] args) {
